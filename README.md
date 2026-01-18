@@ -1,1 +1,1 @@
-run command: sreamlit run app1.py
+run command: streamlit run app1.py
